@@ -1,0 +1,23 @@
+name: Itsoup theme
+type: theme
+discription: this is a soup theme.
+core: 8.x
+# Define the base theme
+base theme: platon
+
+# region
+region:
+   help: 'Help'
+   branding: 'Branding'
+   menu: 'Menu'
+   admin_opigno: 'Admin opigno menu'
+   status_messages: 'status messages'
+   top: 'top'
+   sidebar_first: 'sidebar first'
+   content: 'content'
+   footer: 'footer'
+
+# Use libraries-override to prevent rewrite unnecessary code.
+libraries:
+ - itsoup/global-styling
+

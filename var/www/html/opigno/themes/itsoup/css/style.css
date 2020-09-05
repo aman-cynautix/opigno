@@ -1,0 +1,5 @@
+#site-header #header-left a img {
+    width: 30% !important;
+    margin-top: 70px;
+    max-height: inherit !important;
+}
