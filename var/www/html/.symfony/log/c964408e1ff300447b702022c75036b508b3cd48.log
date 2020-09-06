@@ -1,0 +1,32 @@
+{"level":"debug","source":"server","source":"PHP","time":"2020-09-04T11:04:21+05:30","message":"Reloading PHP versions"}
+{"level":"debug","source":"server","source":"PHP","time":"2020-09-04T11:04:22+05:30","message":"Using PHP version 7.2.24 (from default version in $PATH)"}
+{"level":"info","source":"server","source":"PHP","php":"7.2.24","path":"/usr/bin/php7.2","port":41997,"time":"2020-09-04T11:04:22+05:30","message":"listening"}
+{"level":"debug","source":"server","source":"PHP","php":"7.2.24","path":"/usr/bin/php7.2","time":"2020-09-04T11:04:22+05:30","message":"started"}
+{"level":"warn","source":"server","ip":"127.0.0.1","status":404,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T11:04:37+05:30","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T11:04:37+05:30","message":"/_wdt/2b2760"}
+{"level":"error","source":"server","ip":"127.0.0.1","status":502,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T11:55:34+05:30","message":"/favicon.ico"}
+{"level":"warn","source":"server","ip":"127.0.0.1","status":404,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T11:55:38+05:30","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T11:55:38+05:30","message":"/_wdt/52ff77"}
+{"level":"debug","source":"server","source":"PHP","time":"2020-09-04T12:39:36+05:30","message":"Reloading PHP versions"}
+{"level":"debug","source":"server","source":"PHP","time":"2020-09-04T12:39:37+05:30","message":"Using PHP version 7.2.24 (from default version in $PATH)"}
+{"level":"info","source":"server","source":"PHP","php":"7.2.24","path":"/usr/bin/php7.2","port":37249,"time":"2020-09-04T12:39:37+05:30","message":"listening"}
+{"level":"debug","source":"server","source":"PHP","php":"7.2.24","path":"/usr/bin/php7.2","time":"2020-09-04T12:39:37+05:30","message":"started"}
+{"level":"warn","source":"server","ip":"127.0.0.1","status":404,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T12:39:46+05:30","message":"/"}
+{"level":"error","source":"server","ip":"127.0.0.1","status":502,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T12:39:46+05:30","message":"/favicon.ico"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T12:39:46+05:30","message":"/_wdt/f7e857"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T12:40:09+05:30","message":"/_profiler/f7e857?panel=request"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T12:40:14+05:30","message":"/_profiler/f7e857?panel=security"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T13:23:39+05:30","message":"/_profiler/f7e857?panel=security"}
+{"level":"warn","source":"server","ip":"127.0.0.1","status":404,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T13:23:46+05:30","message":"/"}
+{"level":"error","source":"server","ip":"127.0.0.1","status":502,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T13:23:46+05:30","message":"/favicon.ico"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T13:23:46+05:30","message":"/_wdt/ac3930"}
+{"level":"debug","source":"server","source":"PHP","php":"7.2.24","path":"/usr/bin/php7.2","time":"2020-09-04T14:57:02+05:30","message":"PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0"}
+{"level":"error","source":"server","source":"PHP","php":"7.2.24","path":"/usr/bin/php7.2","time":"2020-09-04T14:57:02+05:30","message":"PHP Fatal error:  Unknown: Failed opening required '/home/aman/.symfony/php/c964408e1ff300447b702022c75036b508b3cd48-router.php' (include_path='.:/usr/share/php') in Unknown on line 0"}
+{"level":"error","source":"server","ip":"127.0.0.1","status":500,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T14:57:02+05:30","message":"/_profiler/ac3930?panel=time"}
+{"level":"debug","source":"server","source":"PHP","php":"7.2.24","path":"/usr/bin/php7.2","time":"2020-09-04T14:57:03+05:30","message":"PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0"}
+{"level":"error","source":"server","source":"PHP","php":"7.2.24","path":"/usr/bin/php7.2","time":"2020-09-04T14:57:03+05:30","message":"PHP Fatal error:  Unknown: Failed opening required '/home/aman/.symfony/php/c964408e1ff300447b702022c75036b508b3cd48-router.php' (include_path='.:/usr/share/php') in Unknown on line 0"}
+{"level":"error","source":"server","ip":"127.0.0.1","status":500,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T14:57:03+05:30","message":"/favicon.ico"}
+{"level":"debug","source":"server","source":"PHP","php":"7.2.24","path":"/usr/bin/php7.2","time":"2020-09-04T14:57:09+05:30","message":"PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0"}
+{"level":"error","source":"server","source":"PHP","php":"7.2.24","path":"/usr/bin/php7.2","time":"2020-09-04T14:57:09+05:30","message":"PHP Fatal error:  Unknown: Failed opening required '/home/aman/.symfony/php/c964408e1ff300447b702022c75036b508b3cd48-router.php' (include_path='.:/usr/share/php') in Unknown on line 0"}
+{"level":"error","source":"server","ip":"127.0.0.1","status":500,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-09-04T14:57:09+05:30","message":"/_profiler/ac3930?panel=time"}
+{"level":"debug","source":"server","source":"PHP","php":"7.2.24","path":"/usr/bin/php7.2","time":"2020-09-04T14:57:23+05:30","message":"stopped"}
